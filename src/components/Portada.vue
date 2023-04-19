@@ -11,12 +11,12 @@
         <p class="fs-2">Facultad de ciencias y tecnologia.</p>
         <br/>
         <h1>Asignatura</h1>
-        <p class="fs-3">Porgramacion Computacional IV</p>
+        <p class="fs-3">Porgramacion Computacional IV.</p>
         <h1>Actividad:</h1>
-        <p class="fs-3">Portafolio Computo 1</p>
+        <p class="fs-3">Portafolio de Porgramacion.</p>
         <br />
         <h1>Docente:</h1>
-        <p class="fs-3">Ing. Gissela Yasmin Garcia Espinoza</p>
+        <p class="fs-3">Ing. Gissela Yasmin Garcia Espinoza.</p>
         <br/>
         <h1>Estudiante:</h1>
         <p class="fs-3">René Ismael Fuentes Benítez (SMIS047221).</p>

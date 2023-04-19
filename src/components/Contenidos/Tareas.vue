@@ -32,6 +32,19 @@
     <img src="./imagenes/Portafiolio 1-4.png" width="650" height="450">
     <img src="./imagenes/Portafolio 1-5.png" width="650" height="450">
     
+    <br />
+    <br />
+    <h1>Computo II</h1>
+    <h2>Laboratorio II</h2>
+    <p>
+        En este laboratorio teniamos que usar scripts php para crear clases o herencias para cada animal y luego implementar una tabla que registre un dato de cada animal y en dicha tabla se deberian de mostrar dichos registros.
+    </p>
+    <img src="./imagenes/computoII_lab2.png" width="550" height="550">
+    <br />
+    <br />
+    <img src="./imagenes/computoII_lab2_tabla.png" width="450" height="350">
+
+   
 </template>
 
 <script>

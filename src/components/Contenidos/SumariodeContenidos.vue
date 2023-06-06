@@ -117,11 +117,83 @@
                 </div>       
                 </div>
             </div>
+
+    <h2>Computo III</h2> <br />
+    <div class="container">
+        <div class="row">
+            <div class="col">
+            <h3>Semana 14 (Del 24 al 30 De Abril):</h3>
+            <br>
+            <h5>Sistemas de Rutas y Controladores:</h5>  
+            <p>En esta semana aprendí como descargar e instalar el lenguaje y servidor de PHP a su vez aprendimos los comandos basicos del lenguaje, aprendimos tambien en como funciona, que puede hacer, cuales son sus ventajas.
+            </p>          
+            </div>
+    
+            <div class="col">
+            <h3>Semana 15 (Del 02 al 07 de Mayo):</h3>
+            <br>
+            <h5>Validacion de Datos | Blade | Laravel/UI</h5>     
+            <br>
+            <p>En esta semana aprendí acerca los funciones, arreglos y bucles, aprendimos la sintaxis y como utilizarlos, aprendimos caracteristicas de cada uno como que los bucles se usan para ejecutar un bloque de declaraciones varias veces hasta que se cumpla la condicion, los bucles se utiliza cuando el usuario sabe de antemano
+            cuántas veces debe ejecutarse el bloque y las funciones aprendimos que son una pieza o bloque de código reutilizable que realiza una acción específica. Toma la entrada del usuario en forma de parámetros, realiza ciertas acciones y da la salida.
+            </p>
+            <p>Tambien aprendimos que hay funciones integradas y funciones creadas por el usuario</p>
+            </div>
+    
+            <div class="col">
+            <h3>Semana 16 (Del 08 al 14 de Mayo):</h3>
+            <br>
+            <h5>API REST con Laravel</h5>     
+            <p>
+            </p>
+            <p></p>
+            </div>
+    
+            <div class="col">
+            <h3>Semana 17 (Del 15 al 21 de Mayo):</h3>
+            <br>
+            <h5>Autenticacion API REST</h5>     
+            <br>
+            <p>
+            </p>
+            </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">        
+                <div class="col">
+                <h3>Semana 18 (Del 22 al 28 de Mayo):</h3>
+                <br>
+                <h5>Consumo API REST</h5>     
+                <br>
+                <p></p>
+                <p></p>
+                </div>
+        
+                <div class="col">
+                <h3>Semana 19 (Del 29 de Mayo al 04 de Junio):</h3>
+                <br>
+                <h5>Autenticacion (LOGIN)</h5>     
+                <p></p>
+                <p></p>
+                </div>   
+
+                <div class="col">
+                <h3>Semana 20 (Del 05 al 11 de Junio):</h3>
+                <br>
+                <h5>Tercer Parcial del Computo III</h5>     
+                <p></p>
+                <p></p>
+                </div> 
+
+                </div>
+            </div>
       
 </template>
 
 <script>
-export default {
+export default{
         name: 'SumariodeContenidos',
     };
 </script>

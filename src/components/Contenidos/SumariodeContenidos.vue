@@ -80,16 +80,16 @@
             <br>
             <h5>Clases Abstractas e Interfaces</h5>     
             <br>
-            <p> Aprendí qie ñas clases específican las características deun conjunto de objetos, y un objeto es la instacia de una clase, también vimos que las clases abstractas y las interfaces son mecanimos que obligan a la herencia y no se pueden instanciar objetos en ellas, aprendí algunas caracteristicas de las clases abstractas como:
+            <div> Aprendí qie ñas clases específican las características deun conjunto de objetos, y un objeto es la instacia de una clase, también vimos que las clases abstractas y las interfaces son mecanimos que obligan a la herencia y no se pueden instanciar objetos en ellas, aprendí algunas caracteristicas de las clases abstractas como:
                 <li>Pueden declarar la existencia de los métodos, pero no su implementación</li>
                 <li>La implementación debe tener la misma "firma" es decir, declaración de tipos y el número de argumentos.</li>
                 <li>Pueden contener métodos no-abstractos, pero debe de contener al menos un método abstracto.</li>
-            </p>
-            <p>También aprendí algunas características de las interfaces como:
+            </div>
+            <div>También aprendí algunas características de las interfaces como:
                 <li> Nos permiten crear código con el cual especificar qué métodos deben ser implementados por una clase, sin definir su implementacion</li>
                 <li> Se definen con la palabra reservada "interface"</li>
-                <li> Los métodos declarados en una interfaz deben ser públicos.</li>
-            </p>
+                <li> Los métodos declarados en una interfaz deben ser públicos.</li> 
+            </div>
             </div>
             </div>
         </div>
@@ -125,8 +125,11 @@
             <h3>Semana 14 (Del 24 al 30 De Abril):</h3>
             <br>
             <h5>Sistemas de Rutas y Controladores:</h5>  
-            <p>En esta semana aprendí como descargar e instalar el lenguaje y servidor de PHP a su vez aprendimos los comandos basicos del lenguaje, aprendimos tambien en como funciona, que puede hacer, cuales son sus ventajas.
-            </p>          
+            <p>Esta semana fue la que mas se me dificulto pero logre aprender el tema, aprendi a como manipular las rutas y como puedo adaptarlas a como sea mi necesidad, con esto quiero decir que no solo se puede usar la misma estructura tal cual de una ruta, puedo usar un route::get, route::resource,route::group,etc.
+            </p>
+            <p>Con el otro tema de los controladores de igual manera que las rutas no comprendi a como manipular los controladores, pero con la documentacion compartida, diferentes fuentes bibliograficas y con algunas consultas a chatGPT puede entender que los controladores tenemos que analizar bien que accion y como queremos que esa accion se realice, ya que seria una mala practica utilizar exactamente lo mismo para todo sin
+                tener correlacion alguna.
+            </p>
             </div>
     
             <div class="col">
@@ -134,19 +137,22 @@
             <br>
             <h5>Validacion de Datos | Blade | Laravel/UI</h5>     
             <br>
-            <p>En esta semana aprendí acerca los funciones, arreglos y bucles, aprendimos la sintaxis y como utilizarlos, aprendimos caracteristicas de cada uno como que los bucles se usan para ejecutar un bloque de declaraciones varias veces hasta que se cumpla la condicion, los bucles se utiliza cuando el usuario sabe de antemano
-            cuántas veces debe ejecutarse el bloque y las funciones aprendimos que son una pieza o bloque de código reutilizable que realiza una acción específica. Toma la entrada del usuario en forma de parámetros, realiza ciertas acciones y da la salida.
+            <p>En esta semana aprendi sobre seguridad mas que todo, ya que es importante que se validen los datos para evitar cualquier tipo de error o situacion no deseada, con el tema .blade me quedo muy claro que este nos sirve para las template que queramos generar de forma simple y legible
             </p>
-            <p>Tambien aprendimos que hay funciones integradas y funciones creadas por el usuario</p>
+            <p>Tambien me quedo claro el uso de los atributos impartidos en clase como el required o el pattern</p>
             </div>
     
             <div class="col">
             <h3>Semana 16 (Del 08 al 14 de Mayo):</h3>
             <br>
             <h5>API REST con Laravel</h5>     
-            <p>
+            <p>Esta semana fue un poco dificil pero nada fuera de lo comun, aprendi que en laravel puedo crear API REST de forma facil aprendiendo que esta es una de las partes del backend.
             </p>
-            <p></p>
+            <p>En esta semana aprendi los verbos HTTP:</p>
+                <li>GET:recuperar recursos</li>
+                <li>POST:crear recursos</li>
+                <li>PUT:actualizar recursos</li>
+                <li>DELETE:eliminar recursos</li>
             </div>
     
             <div class="col">
@@ -154,7 +160,7 @@
             <br>
             <h5>Autenticacion API REST</h5>     
             <br>
-            <p>
+            <p>Aprendi en esta semana que tener un token de autenticacion en un usuario es importante ya que asi podemos darle los permisos pertinentes y asi proteger los datos de la empresa y los datos personales del usuario ante cualquier situacion, aplicar una autenticacion es muy util y eficaz ya que es facil de implementar, proporciona un buen nivel de seguridad y un buen rendimiento
             </p>
             </div>
             </div>
@@ -163,32 +169,26 @@
         <div class="container">
             <div class="row">        
                 <div class="col">
-                <h3>Semana 18 (Del 22 al 28 de Mayo):</h3>
-                <br>
-                <h5>Consumo API REST</h5>     
-                <br>
-                <p></p>
-                <p></p>
+                    <h3>Semana 18 (Del 22 al 28 de Mayo):</h3>
+                    <br>
+                    <h5>Consumo API REST</h5>     
+                    <br>
+                        <p>En esta semana aprendi mas cosas practicas que teoricas pero la parte teorica aprendidad es que REST es un estilo arquitectonico para compilar servicios web </p>
+                        <p>Este tambien utiliza los verbos HTTP que aprendimos anteriormente, tambien aprendimos que hay requisitos que las APIS con estos rquisitos cumplen con REST al tener estos requisitos:</p>
+                        <li>Identificador URl</li>
+                        <li>Metodos HTTP</li>
+                        <li>Tipo de medio para los datos</li>
                 </div>
         
                 <div class="col">
-                <h3>Semana 19 (Del 29 de Mayo al 04 de Junio):</h3>
-                <br>
-                <h5>Autenticacion (LOGIN)</h5>     
-                <p></p>
-                <p></p>
+                    <h3>Semana 19 (Del 29 de Mayo al 04 de Junio):</h3>
+                    <br>
+                    <h5>Autenticacion (LOGIN)</h5>     
+                        <p>En esta semana aprendi a como usar proveedores como github o facebook para hacer una autenticacion en un login para que un usuario pueda tener el acceso asignado como rol de usuario</p>
+                        <p>También aprendi a configurar el .env para que podamos utilizar los ID'S de cliente del proveedor para hacer el redirect auth y el callback ya autorizado el acceso.</p>
                 </div>   
-
-                <div class="col">
-                <h3>Semana 20 (Del 05 al 11 de Junio):</h3>
-                <br>
-                <h5>Tercer Parcial del Computo III</h5>     
-                <p></p>
-                <p></p>
-                </div> 
-
-                </div>
             </div>
+        </div>
       
 </template>
 

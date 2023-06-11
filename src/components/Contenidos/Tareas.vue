@@ -43,8 +43,12 @@
     <br />
     <br />
     <img src="./imagenes/computoII_lab2_tabla.png" width="450" height="350">
-
-   
+    <br />
+    <br />
+    <h1>Computo III</h1>
+    <h2>Practicas de todo el Computo:</h2>
+    <p> En este computo teniamos todo la semana empezando desde el martes para hacer la asignacion practica en nuestras casas o en la hora de la misma, como en el computo anterior se nos pidio subir cada practica a un repositorio para al final presentarlo como prueba de que si hicimos nuestro trabajo</p>
+   <img src="./imagenes/repositorio.png" width="650" height="250">
 </template>
 
 <script>

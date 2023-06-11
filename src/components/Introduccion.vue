@@ -2,7 +2,7 @@
     <div class="hello">
         <h1>Introduccion</h1>
         <br/>
-        <p>En este computo aprendí lo basico de PHP, como funciona, para que sirve, sus ventajas y como conectarme a una base de datos, este lenguaje es apropiado para el desarrollo web y este mismo es de código abierto, PHP permite la ejecucion de scripts en la parte del servidor y para eso se necesitan tres cosas: un analizador, un servidor web y un navegador web </p>
+        <p>En este computo me adentre al desarrollo backend de una forma muy precisa con complicaciones pero cada duda que tenia se la hacia saber a la ingeniera o investigaba al respecto, en este computo aprendi el manejo de rutas, controladores, vistas, la creacion de formularios y me hacen falta otras cosa que perfeccionar como el consumo de las API REST y como hacer la autenticacion de las mismas. </p>
     </div>
 </template>
 

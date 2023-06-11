@@ -20,6 +20,13 @@
     <li><a href="https://youtu.be/voml3cgnfTQ">11: Herencia en PHP (POO)</a></li>
     <li><a href="https://youtu.be/vzna0A3W5b4">Ejercicios PHP - POO #1 - Personas</a></li>
     <li><a href="https://youtu.be/MaJJ_n1E1yo">Crear un CRUD en php y MySQL #1</a></li>
+    <br />
+    <br />
+    <h1>Investigaciones Computo III</h1>
+    <li><a href="https://youtu.be/9DU7WLZeam8">Cómo HACER un CRUD en laravel► 🎁 PASO A PASO, GRATIS y desde CERO</a></li>
+    <li><a href="https://youtu.be/5H54zEeTwls">Laravel 9 carga y visualización de imágenes</a></li>
+    <li><a href="https://larainfo.com/blogs/laravel-9-shopping-add-to-cart-tutorial-example">Add Shopping cart</a></li>
+    <li><a href="https://youtu.be/UyLIPTYHI2M">Shopping cart laravel 9- carrito de compras laravel 9</a></li>
 </template>
 
 <script>
